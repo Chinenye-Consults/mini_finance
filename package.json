@@ -1,0 +1,23 @@
+{
+  "name": "mini-finance",
+  "version": "1.0.0",
+  "description": "This project is part of My Udemy Course [Git & GitHub for Absolute Beginners with Project](https://www.udemy.com/course/git-and-github-for-beginners-start-coding-collaboratively/?referralCode=2D07E24EAB31E15FC5A4)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chinenye-Consults/mini_finance.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chinenye-Consults/mini_finance/issues"
+  },
+  "homepage": "https://github.com/Chinenye-Consults/mini_finance#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
